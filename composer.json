@@ -1,0 +1,22 @@
+{
+    "name": "bimthebam/silverstripe-native-color-input",
+    "description": "Native (browser) color input field for SilverStripe",
+    "type": "silverstripe-vendormodule",
+    "keywords": ["silverstripe", "module", "input color"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Christian Bünte (bimthebam)",
+            "homepage": "https://github.com/bimthebam"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BimTheBam\\NativeColorInput\\": "src/"
+        }
+    }
+}
