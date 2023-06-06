@@ -1,4 +1,4 @@
-# Native color input field for SilverStripe 4.x
+# Native color input field for SilverStripe 4.x and 5.x
 
 No rocket science - just native HTML5 color input.
 
@@ -11,5 +11,5 @@ No rocket science - just native HTML5 color input.
 ### with Composer:
 
 ```bash
-composer require bimthebam/silverstripe-native-color-input ~1.0.0
+composer require bimthebam/silverstripe-native-color-input ^1
 ``` 
